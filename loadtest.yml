@@ -1,8 +1,0 @@
-config:
-  target: 'https://us-central1-serverlessfunctiongenprime.cloudfunctions.net/generatePrimes'
-  phases:
-    - duration: 60
-      arrivalRate: 20
-scenarios:
-  - flow:
-    - get: ""
