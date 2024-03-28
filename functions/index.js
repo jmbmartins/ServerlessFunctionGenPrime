@@ -1,3 +1,5 @@
+require("@google-cloud/trace-agent").start();
+
 // The Cloud Functions for Firebase SDK to create Cloud Functions and triggers.
 const functions = require("firebase-functions");
 
