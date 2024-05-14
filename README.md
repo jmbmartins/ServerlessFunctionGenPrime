@@ -28,7 +28,7 @@ Laboratory Project 1 – Serverless function to generate prime numbers.
 ------------------------------------------------------------------------------------
 
 Supabase:
-
+https://vercel.com/joaos-projects-449d401f/api/AEphfcZRDXSzh6tUWMD7LEX1vaww
 1. Implementação da Função: [Código](supabase/function_primes.js)
 
 2. Deployment da Função:
