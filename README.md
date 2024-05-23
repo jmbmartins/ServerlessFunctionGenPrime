@@ -10,7 +10,7 @@ Laboratory Project 1 – Serverless function to generate prime numbers.
    - `cd functions`
    - Instalar dependências: `npm install firebase-functions firebase-admin`
    - Deploy da função para o database: `firebase deploy --only functions`
-     - [Página Função](https://us-central1-serverlessfunctiongenprime.cloudfunctions.net/generatePrimes)
+     - [Página Função](https://us-central1-testecnultima.cloudfunctions.net/generatePrimes)
      - [Página Projeto](https://console.firebase.google.com/u/0/project/serverlessfunctiongenprime/functions?hl=pt-br)
          
 3. Medir e Avaliar
